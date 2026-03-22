@@ -16,4 +16,4 @@ const avaliar = function(){
 const removerClasses = function(){
     const resultado = document.getElementById('resultado')
     resultado.classList.remove('Apto', 'naoApto')
-}
+} 
